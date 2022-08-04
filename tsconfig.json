@@ -4,6 +4,7 @@
     "lib": ["dom", "esnext"],
     "jsx": "react",
     "module": "esnext",
+    "allowSyntheticDefaultImports": true,
     "moduleResolution": "node",
     "forceConsistentCasingInFileNames": true,
     "strict": true,

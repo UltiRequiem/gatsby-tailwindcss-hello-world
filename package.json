@@ -16,6 +16,8 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@types/canvas-confetti": "^1.4.3",
+    "canvas-confetti": "^1.5.1",
     "gatsby": "^4.20.0",
     "gatsby-plugin-image": "^2.20.0",
     "gatsby-plugin-sharp": "^4.20.0",
