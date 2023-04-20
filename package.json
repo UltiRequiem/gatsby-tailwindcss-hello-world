@@ -20,7 +20,7 @@
     "canvas-confetti": "^1.5.1",
     "gatsby": "^5.2.0",
     "gatsby-plugin-image": "^3.2.0",
-    "gatsby-plugin-sharp": "^5.2.0",
+    "gatsby-plugin-sharp": "^5.8.1",
     "gatsby-plugin-sitemap": "^6.2.0",
     "gatsby-source-filesystem": "^4.20.0",
     "gatsby-transformer-sharp": "^5.2.0",
